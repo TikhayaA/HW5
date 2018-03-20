@@ -1,0 +1,29 @@
+.footer{
+	
+	height:200px;
+	width: 100%;
+	bottom: 0;
+	background: #F5F5F5;
+	border-top: 1px solid #ccc;
+	box-sizing: border-box;
+}
+
+.footer nav li{
+	height: 40px;
+	line-height: 40px;
+}
+
+.footer nav a{
+	display: block;
+	width: 20%;
+	margin: auto;
+	text-align: center;
+	color: #26252D;
+	text-decoration: none; 
+}
+
+.footer nav li a:hover{
+	background: #FAFAD2;
+	border: 1px solid #ccc;
+
+}

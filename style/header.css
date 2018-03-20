@@ -1,0 +1,29 @@
+.header{
+	height: 70px;
+	line-height: 70px;
+	background: #F5F5F5;
+	border-bottom: 1px solid #ccc;
+}
+
+.container-header{
+	width: 960px;
+	margin: 0 auto;
+}
+
+.header-nav li{
+	display: table-cell;
+	width: 1000px;
+	text-align: center;
+	box-sizing: border-box;
+}
+
+.header-nav li a:hover{
+	background: #FAFAD2;
+	border: 1px solid #ccc;
+}
+
+.header-nav li a{
+	color: #26252D;
+	text-decoration: none; 
+	display: block;
+}
